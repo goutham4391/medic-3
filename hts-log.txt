@@ -1,0 +1,19 @@
+HTTrack3.49-2 launched on Mon, 26 Sep 2022 15:38:37 at https://demo.w3layouts.com/demos_new/template_demo/31-08-2018/poly_clinic-demo_Free/1184288982/web/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://demo.w3layouts.com/demos_new/template_demo/31-08-2018/poly_clinic-demo_Free/1184288982/web/index.html -O "/home/kumartej/websites/Medico3" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:38:39	Warning: 	File not parsed, looks like binary: https://demo.w3layouts.com/robots.txt
+15:39:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): m.servedby-buysellads.com/monetization.js
+15:40:17	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/template_demo/31-08-2018/poly_clinic-demo_Free/1184288982/web/images/s2.jpg (from https://demo.w3layouts.com/demos_new/template_demo/31-08-2018/poly_clinic-demo_Free/1184288982/web/css/style.css)
+15:40:17	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/template_demo/31-08-2018/poly_clinic-demo_Free/1184288982/web/images/4.jpg (from https://demo.w3layouts.com/demos_new/template_demo/31-08-2018/poly_clinic-demo_Free/1184288982/web/css/style.css)
+15:40:17	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/template_demo/31-08-2018/poly_clinic-demo_Free/1184288982/web/css/ui-bg_glass_65_ffffff_1x400.png (from https://demo.w3layouts.com/demos_new/template_demo/31-08-2018/poly_clinic-demo_Free/1184288982/web/css/jquery-ui.css)
+15:40:17	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/template_demo/31-08-2018/poly_clinic-demo_Free/1184288982/web/css/ui-bg_glass_95_fef1ec_1x400.png (from https://demo.w3layouts.com/demos_new/template_demo/31-08-2018/poly_clinic-demo_Free/1184288982/web/css/jquery-ui.css)
+15:40:17	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/template_demo/31-08-2018/poly_clinic-demo_Free/1184288982/web/css/ui-bg_flat_0_aaaaaa_40x100.png (from https://demo.w3layouts.com/demos_new/template_demo/31-08-2018/poly_clinic-demo_Free/1184288982/web/css/jquery-ui.css)
+15:40:17	Error: 	"Not Found" (404) at link https://demo.w3layouts.com/demos_new/template_demo/31-08-2018/poly_clinic-demo_Free/1184288982/web/images/calender.png (from https://demo.w3layouts.com/demos_new/template_demo/31-08-2018/poly_clinic-demo_Free/1184288982/web/css/jquery-ui.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 40 seconds : 80 links scanned, 73 files written (5399100 bytes overall) [3178906 bytes received at 31789 bytes/sec], 3344000 bytes transferred using HTTP compression in 44 files, ratio 31%, 3.1 requests per connection
+(6 errors, 2 warnings, 0 messages)
